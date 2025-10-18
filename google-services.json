@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55678282271",
+    "project_id": "urban-roots-f0bc5",
+    "storage_bucket": "urban-roots-f0bc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55678282271:android:0cded3d29b2dc8973b032a",
+        "android_client_info": {
+          "package_name": "com.example.urbanroots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55678282271-g3u2tsoilchijrrnejn66u3vgsn55nc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoD9xuDNVx-eoZ8Rom9iTAm9YghNLHjEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55678282271-g3u2tsoilchijrrnejn66u3vgsn55nc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

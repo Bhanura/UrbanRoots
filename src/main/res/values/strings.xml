@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Urban Roots</string>
+    <string name="profile_header">My Profile</string>
+
+    <string name="edit_profile_header">Edit Profile</string>
+    <string name="name_label">Name:</string>
+    <string name="email_label">Email:</string>
+    <string name="location_label">Location:</string>
+    <string name="loading">Loading...</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="farmer_id_label">Farmer ID:</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_location">Enter your location</string>
+    <string name="enter_farmer_id">Enter your farmer ID</string>
+    <string name="profile_picture_description">Profile Picture</string>
+<string name="save_profile">Save</string>
+</resources>
+
